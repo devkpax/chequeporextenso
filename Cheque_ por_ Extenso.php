@@ -43,7 +43,7 @@ print($rt  );
 <?php
 
 
-echo '<form  name="form1"  method="post" action="primo.php">
+echo '<form  name="form1"  method="post" action="Cheque_ por_ Extenso.php">
 <input id="t1" name="ts" type="text" value="" />
 <input id="b1" name="b1" type="submit" value="Clique aqui!" />
 </form>';
