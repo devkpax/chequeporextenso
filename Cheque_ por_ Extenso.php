@@ -52,7 +52,7 @@ $T =  $_POST['ts'] ;
 print $T; "n/". "<BR>" ;
 vr_extenso ("$T");
  	 
- 
+ sssss
 snnsnsns
  
 ?>
