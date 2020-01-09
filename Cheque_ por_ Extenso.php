@@ -54,8 +54,7 @@ vr_extenso ("$T");
  	 
  
 
- tetse
-
+ 
 ?>
   
  
