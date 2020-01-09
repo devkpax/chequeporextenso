@@ -51,7 +51,7 @@ echo '<form  name="form1"  method="post" action="Cheque_ por_ Extenso.php">
 $T =  $_POST['ts'] ; 
 print $T; "n/". "<BR>" ;
 vr_extenso ("$T");
- 	 
+ 	zczxzxc 
  
 snnsnsns
  
