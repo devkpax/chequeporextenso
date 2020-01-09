@@ -53,7 +53,7 @@ print $T; "n/". "<BR>" ;
 vr_extenso ("$T");
  	 
 
-
+echo "novo";
 
  
 
